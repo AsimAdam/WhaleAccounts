@@ -1,0 +1,16 @@
+.countdown-info {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 1rem;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    width: 80%;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  .countdown-info p {
+    margin: 0;
+    color: #00e0e0; 
+  }
+  
